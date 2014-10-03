@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name":"ChromeOS in Red",
-  "version":"1.0",
+  "version":"1.1",
   "theme":{
     "colors":{
       "frame":[205,10,10,1.0],
@@ -12,8 +12,8 @@
       "tab_background_text":[10,0,0,1.0]
     },
     "images":{
-      "theme_frame":"/images/theme_frame.png",
-      "theme_toolbar":"/images/theme_toolbar.png"
+      "theme_frame":"images/theme_frame.png",
+      "theme_toolbar":"images/theme_toolbar.png"
     },
     "tints":{
       
